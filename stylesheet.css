@@ -1,0 +1,65 @@
+body {
+    background-color:  #FFFFF0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+a {
+    color: #0d0dac;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h1 {
+    color: #040b69;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    color: rgb(131, 26, 0);
+    text-align: center;
+}
+        
+.kurt1 {
+    text-align: center;
+}
+.Explore {
+    color: green;
+    }
+
+.motto {
+    text-align: center;
+    color: #040b69;
+}
+
+.kurt1 {
+    color: #040b69;
+}
+.front {
+    text-align: center;
+}
+
+.mice {
+    color: #040b69;
+    text-align: center;
+}
+
+.nice2 {
+    color: #040b69;
+    text-align: center;
+}
+.nice3 {
+    color: #040b69;
+    text-align: center;
+}
+
+.nice5 {
+    color: #040b69;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
